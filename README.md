@@ -1,7 +1,6 @@
 # test
 first repository
 
-ciao
 # scrittura
 E' molto semplice far apparire alcune parole in **grassetto** e altre in *corsivo* utilizzando markdown.
 Si possono anche creare link per [Google](https://www.google.it/)
@@ -14,8 +13,6 @@ A volte ti servono delle liste numerate:
 3. tre
 
 A volte invece elenchi puntati:
-
-
 
 * inizia la riga con una stella
 * voilà
