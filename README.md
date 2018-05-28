@@ -57,3 +57,11 @@ if (isAwesome){
   return true
 }
 ```
+
+E se desideri utilizzare l'evidenziazione della sintassi, includi la lingua:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
